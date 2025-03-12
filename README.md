@@ -3,6 +3,6 @@ This repo serves to hold all of the code for the tutorials posted on my website 
 
 ## Tutorials :rocket:
 
-| Name                                                                                      | Code | Blog Post/Tutorial |
+| **Name**                                                                              | **Code** | **Blog Post/Tutorial** |
 |-------------------------------------------------------------------------------------------|------|--------------------|
 | A Comprehensive Guide to Conformal <br>Prediction: Simplifying the Math, Algorithms, and Code |      |                    |
