@@ -4,5 +4,5 @@ This repo serves to hold all of the code for the tutorials posted on my website 
 ## Tutorials :rocket:
 
 | **Name**                                                                              | **Code** | **Blog Post/Tutorial** |
-|-------------------------------------------------------------------------------------------|------|--------------------|
+|:-------------------------------------------------------------------------------------------:|:------:|:--------------------:|
 | A Comprehensive Guide to Conformal <br>Prediction: Simplifying the Math, Algorithms, and Code | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/team-daniel/ai_focus/blob/master/tutorials/CPAlgorithms.ipynb) | [![Blog Post](https://img.shields.io/badge/Blog%20Post-gray?style=flat&logo=ghost&link=https://www.ai-focus.co.uk/a-comprehensive-guide-to-conformal-prediction-simplifying-the-math-algorithms-and-code/)](https://www.ai-focus.co.uk/a-comprehensive-guide-to-conformal-prediction-simplifying-the-math-algorithms-and-code/) |
