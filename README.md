@@ -5,4 +5,5 @@ This repo serves to hold all of the code for the tutorials posted on my website 
 
 | **Name**                                                                              | **Code** | **Blog Post/Tutorial** |
 |-------------------------------------------------------------------------------------------|------|--------------------|
-| A Comprehensive Guide to Conformal <br>Prediction: Simplifying the Math, Algorithms, and Code |      |                    |
+| A Comprehensive Guide to Conformal <br>Prediction: Simplifying the Math, Algorithms, and Code |   [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/team-daniel/ai_focus/blob/master/tutorials/CPAlgorithms.ipynb)
+   |                    |
